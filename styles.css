@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  background-color: #0D0D0D;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100vh;
+  font-family: 'Orbitron', sans-serif;
+  color: #FF9E1B;
+  text-align: center;
+}
+
+.logo-container {
+  animation: fadeIn 3s ease-in;
+}
+
+.glow-logo {
+  width: 300px;
+  filter: drop-shadow(0 0 10px #FF9E1B)
+          drop-shadow(0 0 20px #C1442E)
+          drop-shadow(0 0 30px #FF6F00);
+  animation: pulse 4s infinite;
+}
+
+.glow-text {
+  margin-top: 20px;
+  font-size: 1.5em;
+  color: #FF9E1B;
+  text-shadow: 0 0 5px #FF6F00, 0 0 15px #C1442E;
+}
+
+@keyframes pulse {
+  0%, 100% {
+    filter: drop-shadow(0 0 10px #FF9E1B)
+            drop-shadow(0 0 20px #C1442E)
+            drop-shadow(0 0 30px #FF6F00);
+    transform: scale(1);
+  }
+  50% {
+    filter: drop-shadow(0 0 20px #FF9E1B)
+            drop-shadow(0 0 40px #C1442E)
+            drop-shadow(0 0 60px #FF6F00);
+    transform: scale(1.05);
+  }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
