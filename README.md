@@ -1,4 +1,4 @@
-# Mandickulus: The Path of the One True Digital Creator
+# Mandickulus: The Path of the One True Frontend Web Creator
 
 Welcome to the public archive of **Mandickulus.com** — a sacred forge of digital originality.
 
@@ -27,4 +27,4 @@ Mandickulus is inspired by:
 
 ---
 
-Contact: Michael Thomas Widener, II – michael.widener@phantomrecords.com – 9841 Washingtonian Blvd, Suite 220 PMB 16, Gaithersburg, Maryland 20878 United States of America – +1 (301) 215-0814
+Contact: Michael Widener, II – michael.widener@phantomrecords.com – 9841 Washingtonian Blvd, Suite 220 PMB 16, Gaithersburg, Maryland 20878 United States of America – +1 (301) 215-0814
