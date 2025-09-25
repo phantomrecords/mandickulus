@@ -6,7 +6,7 @@ This is the domain of **Mandickulus**, a Mandalorian Jedi of the Light Side who 
 
 ## 🔥 Purpose
 
-This repository and site showcase the work of Michael Thomas Widener, II — artist, animator, NFT creator, and originator of visionary interactive experiences.
+This repository and site showcase the work of Michael Widener, II — artist, animator, NFT creator, and originator of visionary interactive experiences.
 
 No content herein is open source.  
 This is **The Path of the One True Digital Creator.**
